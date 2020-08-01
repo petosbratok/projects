@@ -1,1 +1,1 @@
-This repository contains the Python projects I made.
+This repository contains some interesting (at least for me) Python projects I made.
