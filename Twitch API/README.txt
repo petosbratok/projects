@@ -13,3 +13,4 @@ you can choose what buttons you want to be pressed by chat.
 and for how long they will be pressed (in seconds).
 At twoButton function the second (additional) button will only. 
 be pressed slightly (if you turn a car, for exaple), this can also be modified.
+Can support 5 chat commands at the same time.
